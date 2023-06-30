@@ -19,7 +19,7 @@ dependencies {
 sonarqube {
     properties {
         property("sonar.host.url", "http://localhost:9000")
-        property("sonar.projectKey", "graddle")
+        property("sonar.projectKey", "sqa_bdf06cdf6e89a48d2737a05fa796f1271a17f902")
         //property("sonar.organization", "myOrganization")
         // property 'sonar.login', 'admin'
         // property 'sonar.password', 'admin'
