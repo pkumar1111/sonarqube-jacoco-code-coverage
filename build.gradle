@@ -22,7 +22,7 @@ sonarqube {
         property("sonar.projectKey", "graddle")
         //property("sonar.organization", "myOrganization")
         property 'sonar.login', 'admin'
-        property 'sonar.token', 'admin123'
+        property 'sonar.password', 'admin123'
     }
 }
 
